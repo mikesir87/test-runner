@@ -1,0 +1,3 @@
+title: First Suite
+description: This is the description of this suite
+runner: jest
